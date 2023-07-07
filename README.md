@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-![ShineHtetAung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShineHtetAung99&show_icons=true&theme=cobalt)
+![ShineHtetAung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShineHtetAung99&show_icons=true&theme=synthwave)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
