@@ -1,4 +1,5 @@
-![shinehtetaung](https://github.com/ShineHtetAung99/ShineHtetAung99/blob/main/giphy.webp)
+
+<img style="width:100%" src="https://github.com/ShineHtetAung99/ShineHtetAung99/blob/main/giphy.webp">
 <h1 align="center">Hi 👋, I'm Shine Htet Aung</h1>
 <h3 align="center">A passionate Web Developer from Yangon, Myanmar</h3>
 
