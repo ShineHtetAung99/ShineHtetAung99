@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **iMyanmarHouse**
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Laravel and Vue**
 
