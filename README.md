@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **iMyanmarHouse**
+- 🔭 I’m currently working on **Next Innovations**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Laravel and Vue**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **shinehtetaung14499@gmail.com**
 
